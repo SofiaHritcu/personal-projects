@@ -1,0 +1,3 @@
+rootProject.name = 'MPP_tema4_proiect_SwimmingContest_java_SpringRMI_2.0'
+include 'SwimmingContestModel'
+
